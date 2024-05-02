@@ -1,0 +1,59 @@
+*{
+    padding:0px;
+    
+    }
+    
+    header{
+        display: flex;
+        justify-content: space-between;
+        padding: 10px;
+         background-color: rgb(38, 136, 182);
+    }
+    
+    .logo{
+    width: 150px;
+    height: 100px;
+
+    }
+    
+    .titulo
+    { 
+        padding-inline-start: 9% 
+        
+    }   
+    
+    .login
+    {
+    
+    }
+    
+    .imagen{
+        padding-top: 15px;
+    }
+    
+    .principal{
+    display: flex;
+    justify-content: center;
+    }
+    
+    section{
+    width: 50%;
+    height: 700x;
+    background-color: rgb(81, 151, 197);
+    }
+
+    
+    
+
+.inicio{
+
+display: flex;
+justify-content: center;
+
+}
+
+.texto{
+    display: flex;
+    justify-content: center;
+
+}
